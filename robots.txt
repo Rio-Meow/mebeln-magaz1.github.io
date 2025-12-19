@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+
+
+Sitemap: https://rio-meow.github.io/mebeln-magaz.github.io/index.html/sitemap.xml
